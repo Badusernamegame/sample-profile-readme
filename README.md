@@ -44,4 +44,5 @@ I'm learning how systems work (and how they break) so I can help keep them secur
 
 > *All security testing in my projects is performed only in lab environments I own or am explicitly authorized to use.*
 
-_"Your sample quote here!"_
+“The first is competence. Be brilliant in the basics. Don’t dabble in your job; you must master it.”
+Jim Mattis from his book Call Sign Chaos 
